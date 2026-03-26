@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>EcoPack AI</title>
+
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&display=swap" rel="stylesheet">
+
+    <style>
+        body {
+            margin: 0;
+            font-family: 'Poppins', sans-serif;
+
+            background: linear-gradient(-45deg, #1b5e20, #43a047, #00c853, #2196f3, #7b1fa2);
+            background-size: 400% 400%;
+            animation: gradient 12s ease infinite;
+
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            overflow: hidden;
+        }
+
+        @keyframes gradient {
+            0% {background-position: 0% 50%;}
+            50% {background-position: 100% 50%;}
+            100% {background-position: 0% 50%;}
+        }
+
+        /* 🔥 BLOBS */
+        .blob {
+            position: absolute;
+            border-radius: 50%;
+            filter: blur(80px);
+            opacity: 0.6;
+            animation: float 10s infinite ease-in-out;
+        }
+
+        .blob1 {
+            width: 300px;
+            height: 300px;
+            background: #00e676;
+            top: 10%;
+            left: 10%;
+        }
+
+        .blob2 {
+            width: 250px;
+            height: 250px;
+            background: #2196f3;
+            bottom: 10%;
+            right: 10%;
+        }
+
+        .blob3 {
+            width: 200px;
+            height: 200px;
+            background: #ff4081;
+            top: 50%;
+            left: 50%;
+        }
+
+        @keyframes float {
+            0% { transform: translateY(0px); }
+            50% { transform: translateY(-40px); }
+            100% { transform: translateY(0px); }
+        }
+
+        body::after {
+            content: "";
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            background-image: radial-gradient(circle, rgba(255,255,255,0.08) 1px, transparent 1px);
+            background-size: 20px 20px;
+        }
+
+        .card {
+            width: 420px;
+            padding: 30px;
+            border-radius: 15px;
+            backdrop-filter: blur(15px);
+            background: rgba(255, 255, 255, 0.15);
+            box-shadow: 0 8px 32px rgba(0,0,0,0.3);
+            color: white;
+            z-index: 10;
+        }
+
+        h1 {
+            text-align: center;
+            text-shadow: 0 0 15px rgba(0,255,150,0.6);
+        }
+
+        p {
+            text-align: center;
+            opacity: 0.8;
+        }
+
+        label {
+            margin-top: 15px;
+            display: block;
+        }
+
+        input, select {
+            width: 100%;
+            padding: 10px;
+            margin-top: 5px;
+            border-radius: 8px;
+            border: none;
+        }
+
+        button {
+            width: 100%;
+            margin-top: 20px;
+            padding: 12px;
+            border: none;
+            border-radius: 10px;
+            background: linear-gradient(135deg, #00e676, #00c853);
+            box-shadow: 0 0 15px rgba(0,255,150,0.6);
+            font-weight: bold;
+            cursor: pointer;
+        }
+
+        button:hover {
+            transform: scale(1.05);
+            box-shadow: 0 0 25px rgba(0,255,150,1);
+        }
+
+        /* Loader */
+        #loader {
+            position: fixed;
+            width: 100%;
+            height: 100%;
+            background: rgba(0,0,0,0.6);
+            top: 0;
+            left: 0;
+            display: none;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .spinner {
+            width: 60px;
+            height: 60px;
+            border: 6px solid #fff;
+            border-top: 6px solid #00e676;
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+        }
+
+        @keyframes spin {
+            100% { transform: rotate(360deg); }
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="blob blob1"></div>
+<div class="blob blob2"></div>
+<div class="blob blob3"></div>
+
+<div class="card">
+
+    <h1>🌱 EcoPack AI</h1>
+    <p>AI-driven smart packaging system</p>
+    <form action="/">
+        <button type="button" onclick="window.location.href='/'">⬅ Back to About</button>
+    </form>
+
+    <form method="POST" action="/predict">
+
+        <label>📦 Product Name</label>
+        <input type="text" name="product_name" placeholder="e.g. milk bottle, laptop" required>
+
+        <label>🚚 Shipping Type</label>
+        <select name="shipping_type">
+            <option value="domestic">Domestic</option>
+            <option value="international">International</option>
+        </select>
+
+        <label>🌍 Sustainability Priority</label>
+        <select name="sustainability_priority">
+            <option value="low">Low</option>
+            <option value="high">High</option>
+        </select>
+
+        <button type="submit">🚀 Get Recommendation</button>
+
+    </form>
+
+</div>
+
+<div id="loader">
+    <div class="spinner"></div>
+</div>
+
+<script>
+document.querySelector("form").addEventListener("submit", function() {
+    document.getElementById("loader").style.display = "flex";
+});
+</script>
+
+</body>
+</html>

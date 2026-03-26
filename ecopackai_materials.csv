@@ -1,0 +1,1201 @@
+material_name,strength,weight_capacity,biodegradability_score,recyclability_percentage,cost,co2_score
+Organic Polymer,2,2,9,58,39,5
+Palm Leaf,1,21,9,42,60,4
+Foam Insert,1,25,6,49,77,7
+Bio Foam,2,20,4,79,81,9
+Tin Container,3,11,9,86,67,3
+Corrugated Board,3,16,5,81,78,8
+Wood Pulp,1,19,9,40,68,3
+Natural Fiber,1,23,8,68,74,4
+Cardboard Box,3,6,8,89,56,5
+Leather Wrap,2,24,9,73,82,5
+LDPE Wrap,1,19,5,90,64,9
+Cardboard Box,1,5,8,52,44,6
+Wood Wool,3,26,7,93,107,6
+Bubble Wrap,2,4,9,40,44,5
+Bio Foam,3,15,7,73,79,5
+Softwood Box,2,29,9,68,91,5
+Molded Fiber,2,4,3,87,46,10
+Wood Pulp,2,20,3,86,88,11
+Refillable Bottle,1,10,3,52,42,9
+Air Cushion Packaging,3,24,8,87,104,5
+Silicone Wrap,3,22,7,88,87,7
+Bubble Wrap,2,3,7,92,44,6
+Palm Leaf,1,26,7,68,79,6
+Corrugated Tray,1,5,5,78,37,8
+Corrugated Tray,3,6,7,63,69,7
+Eco Wrap,1,21,5,65,62,8
+Corrugated Tray,1,22,3,56,64,11
+Plant-based Plastic,2,8,3,46,61,9
+Wax Coated Paper,1,7,8,52,39,6
+Wood Wool,2,21,9,44,89,3
+Corrugated Board,3,10,3,65,65,11
+Plant-based Plastic,1,6,9,88,34,4
+Steel Container,3,14,9,42,71,5
+Bio Foam,3,4,8,46,49,5
+PET Bottle,1,28,4,97,92,8
+Seaweed Packaging,1,25,4,88,82,10
+Kraft Paper,3,13,6,78,77,7
+Bubble Wrap,1,20,8,92,69,4
+Hemp Fiber,2,17,6,40,72,6
+Plastic Container,2,23,6,88,77,8
+Natural Fiber,1,7,4,56,39,8
+Cardboard Box,3,4,8,82,60,5
+Bubble Wrap,1,29,4,64,88,8
+Textile Packaging,1,14,6,98,45,6
+Wood Crate,3,3,8,42,64,5
+Eco Wrap,3,24,6,54,105,6
+Metal Drum,2,5,7,68,47,5
+Plastic Barrel,3,16,9,92,81,3
+Biodegradable Film,2,26,8,82,90,4
+Kraft Paper,3,23,8,71,105,5
+Cardboard Box,1,20,9,65,71,3
+Aluminum Can,2,4,6,99,41,7
+Compressed Paper,2,24,7,55,91,5
+Kraft Paper,2,24,5,64,96,7
+Compressed Paper,1,2,9,93,22,3
+Honeycomb Board,1,18,4,67,65,8
+Seaweed Packaging,1,19,6,48,70,7
+Textile Packaging,1,28,9,95,87,4
+Plywood Box,1,28,9,95,82,4
+Corrugated Tray,2,19,8,40,80,6
+Hemp Fiber,1,17,4,68,60,8
+Reusable Container,2,14,4,96,70,8
+Palm Leaf,1,19,4,61,63,9
+Corrugated Tray,3,22,9,55,98,5
+PVC Container,2,24,5,80,79,7
+Natural Fiber,3,13,3,90,86,10
+Tin Container,2,12,6,83,68,6
+Paperboard,3,26,3,90,94,9
+Bubble Wrap,1,6,9,93,38,4
+Rubber Packaging,1,21,3,80,61,10
+Cloth Wrap,1,4,9,46,35,3
+Palm Leaf,2,19,3,53,77,9
+Recycled Paper,3,16,4,68,85,9
+Straw Packaging,1,13,7,58,49,5
+Plastic Container,3,4,4,58,65,8
+Paper Wrap,3,23,4,41,88,9
+Wood Crate,1,17,8,80,62,4
+Honeycomb Board,1,23,8,84,72,4
+Cotton Bag,3,1,3,54,60,11
+Wood Crate,1,18,9,42,63,4
+Metal Drum,1,20,4,50,72,10
+Metal Drum,1,17,3,92,67,11
+Softwood Box,2,27,8,85,101,6
+Glass Bottle,3,28,7,69,114,5
+Rubber Packaging,3,27,6,96,97,6
+Flexible Packaging,2,15,3,79,74,11
+Steel Container,3,11,7,57,68,7
+Jute Bag,1,25,6,90,78,8
+Plywood Box,3,28,5,87,107,7
+Softwood Box,1,22,3,41,75,11
+Reusable Container,2,13,3,71,69,11
+Glass Jar,1,1,5,47,34,8
+Corrugated Tray,3,17,5,61,84,8
+HDPE Container,3,6,3,45,64,9
+Textile Packaging,3,4,5,51,61,8
+Metal Drum,2,20,4,86,72,9
+Straw Packaging,2,16,6,96,67,7
+Eco Wrap,3,15,6,79,72,6
+Corrugated Board,1,27,6,75,85,7
+Paper Wrap,2,15,4,54,66,8
+Glass Bottle,3,6,9,67,59,5
+Hemp Fiber,3,15,5,91,85,8
+Rigid Box,2,14,7,96,70,5
+Plastic Container,2,28,5,88,92,8
+Palm Leaf,2,11,3,84,62,11
+Silicone Wrap,1,7,8,57,43,4
+Plant-based Plastic,1,9,6,41,45,6
+Honeycomb Board,3,26,5,52,109,7
+Organic Polymer,2,16,7,84,77,7
+Kraft Paper,1,5,3,93,30,11
+Glass Jar,2,25,4,54,86,10
+Palm Leaf,3,20,9,59,85,3
+Organic Fiber,1,29,4,68,90,10
+Cloth Wrap,1,10,7,98,40,6
+Plastic Barrel,1,18,3,81,67,11
+Bamboo Fiber,3,3,6,68,58,6
+Hardboard,2,13,5,42,59,8
+Air Cushion Packaging,1,11,3,58,54,11
+Flexible Packaging,3,17,9,42,88,4
+Coconut Fiber,2,22,4,93,82,9
+Silicone Wrap,3,13,9,53,73,3
+Recycled Paper,2,6,9,79,53,4
+Corrugated Tray,3,17,7,98,94,6
+Thermoformed Plastic,2,27,7,94,87,5
+Aluminum Can,1,13,5,43,45,7
+Flexible Packaging,2,19,7,98,81,5
+Flexible Packaging,3,21,7,99,86,6
+Textile Packaging,3,19,3,91,93,10
+Leather Wrap,2,10,6,50,62,7
+Corrugated Tray,1,3,5,97,42,7
+Corrugated Tray,1,14,3,70,63,11
+Paper Wrap,2,26,6,82,93,7
+Rigid Box,2,19,9,71,76,5
+Corrugated Tray,3,5,3,66,55,9
+Corrugated Board,1,29,8,69,94,5
+Rigid Box,2,5,3,82,58,11
+Plastic Container,1,20,7,41,62,6
+Corrugated Tray,2,17,6,88,66,7
+HDPE Container,2,21,5,48,72,8
+Plant-based Plastic,1,10,5,67,52,9
+Textile Packaging,2,5,6,70,56,6
+Tin Container,2,4,7,99,41,6
+Air Cushion Packaging,3,6,4,73,56,8
+Hardboard,2,26,3,95,93,9
+Organic Polymer,2,4,7,54,55,7
+Corrugated Tray,2,7,8,87,44,6
+Molded Fiber,3,7,9,64,67,3
+Organic Polymer,1,18,6,75,63,7
+Jute Bag,3,3,3,47,50,11
+PET Bottle,3,1,5,48,62,8
+Cardboard Box,1,24,9,97,84,4
+Corrugated Board,3,25,4,97,105,9
+Greaseproof Paper,1,4,8,76,28,4
+Air Cushion Packaging,3,6,5,87,61,8
+Cardboard Box,1,9,6,84,41,6
+Cardboard Box,2,22,3,78,91,9
+Compressed Paper,3,14,6,71,87,7
+Paper Wrap,3,28,9,97,102,4
+Corn Starch Pack,3,12,3,91,70,10
+Cardboard Box,3,28,7,56,116,6
+Natural Fiber,2,25,4,74,93,8
+Textile Packaging,3,20,7,76,95,6
+Hardboard,2,24,7,58,96,6
+Hardboard,2,25,6,83,87,6
+Areca Leaf,2,4,9,68,40,5
+Wax Coated Paper,2,21,4,98,88,10
+Greaseproof Paper,1,24,3,46,82,9
+Mushroom Packaging,1,12,3,67,45,11
+LDPE Wrap,3,10,8,48,80,4
+Tin Container,1,22,5,67,71,8
+Rice Husk Packaging,1,28,8,45,77,5
+Cotton Bag,3,7,8,68,58,6
+Bagasse,3,3,3,97,58,10
+Air Cushion Packaging,3,23,6,56,88,8
+Corrugated Board,1,28,7,55,85,7
+Cellulose Film,1,14,9,62,54,4
+Air Cushion Packaging,3,24,7,70,97,6
+Plastic Barrel,2,10,7,42,58,7
+Corn Starch Pack,3,16,4,60,79,9
+Banana Fiber,2,16,3,65,64,9
+Corn Starch Pack,2,22,9,75,91,4
+Cellulose Film,3,10,6,81,70,7
+Organic Polymer,3,25,4,76,93,8
+Softwood Box,3,13,5,92,85,8
+PVC Container,1,6,6,61,30,7
+PET Bottle,2,12,8,81,72,6
+Paper Wrap,1,9,6,51,44,7
+Cotton Bag,1,13,6,81,44,7
+Thermoformed Plastic,3,4,7,52,50,5
+Biodegradable Film,1,24,6,50,81,8
+Glass Jar,3,11,8,93,78,6
+Fiberboard,2,20,8,55,84,6
+Silicone Wrap,3,18,3,47,90,10
+Steel Container,1,26,6,79,75,8
+Bagasse,1,11,7,98,49,5
+Bubble Wrap,3,25,6,96,91,8
+Cardboard Box,3,21,5,79,93,7
+Paper Wrap,1,4,5,84,28,9
+Reusable Container,2,18,7,98,71,7
+Jute Bag,2,1,3,41,45,9
+Rice Husk Packaging,3,27,3,69,112,11
+HDPE Container,2,7,8,69,54,6
+Hardboard,1,6,8,51,45,6
+Plastic Container,3,15,4,49,71,9
+Corn Starch Pack,1,18,7,83,63,5
+Reusable Container,1,24,6,50,65,8
+Corrugated Board,2,11,9,54,65,3
+Cellulose Film,3,20,7,55,90,5
+Tin Container,3,24,4,56,95,8
+Compressed Paper,2,15,8,65,60,6
+Softwood Box,1,16,7,41,58,7
+Tin Container,1,7,7,89,34,5
+Plastic Barrel,1,21,8,51,70,5
+LDPE Wrap,1,10,4,90,55,8
+Foil Wrap,3,26,8,65,103,5
+Seaweed Packaging,3,12,3,62,72,9
+Coconut Fiber,2,24,6,57,94,6
+Compressed Paper,2,14,8,71,67,4
+Metal Drum,3,25,4,88,101,10
+Foam Insert,3,5,5,77,63,8
+Rubber Packaging,1,26,3,96,71,10
+Softwood Box,1,21,5,86,70,7
+Areca Leaf,2,18,9,42,67,5
+Softwood Box,3,5,8,77,60,6
+Hemp Fiber,2,3,3,42,51,10
+Bio Foam,3,23,6,69,88,8
+Reusable Container,1,26,8,40,85,5
+Cellulose Film,2,5,6,69,54,7
+Wood Crate,2,24,7,84,78,6
+Steel Container,3,17,5,71,94,9
+Banana Fiber,1,19,3,67,60,10
+Mushroom Packaging,2,19,6,60,76,7
+Softwood Box,1,25,4,97,76,8
+Reusable Container,2,21,6,85,78,7
+Air Cushion Packaging,1,12,4,52,41,9
+Wood Pulp,3,25,8,66,103,4
+Leather Wrap,2,29,3,75,95,9
+LDPE Wrap,2,9,6,46,56,8
+Plant-based Plastic,1,1,9,61,33,4
+Compressed Paper,1,18,6,49,57,8
+Wood Crate,2,21,9,78,86,5
+Rigid Box,3,4,3,92,61,9
+Rigid Box,1,10,6,54,56,8
+Bio Foam,1,25,4,54,84,9
+Leather Wrap,1,7,6,43,41,6
+Flexible Packaging,2,22,5,71,81,8
+Wood Wool,2,23,8,62,90,5
+Rice Husk Packaging,2,1,7,94,32,5
+Foam Insert,2,17,4,45,64,9
+Reusable Container,3,24,5,63,100,7
+Corn Starch Pack,3,29,9,59,106,4
+Kraft Paper,2,29,8,97,95,4
+Metal Drum,3,2,3,76,56,11
+Wood Wool,1,28,4,59,81,9
+Refillable Bottle,1,26,7,51,78,5
+Mushroom Packaging,1,11,8,72,40,5
+Textile Packaging,2,9,9,67,62,4
+Leather Wrap,1,7,7,47,50,6
+Composite Packaging,3,22,3,40,91,9
+Aluminum Can,2,17,3,76,64,11
+HDPE Container,3,17,9,61,75,5
+Tin Container,1,2,4,45,39,10
+Composite Packaging,1,6,9,60,32,3
+Natural Fiber,1,14,6,71,46,8
+Bubble Wrap,2,6,3,74,54,9
+Honeycomb Board,3,2,8,54,46,5
+Hardboard,2,1,6,44,45,7
+Softwood Box,2,10,5,99,60,9
+Banana Fiber,1,21,7,95,63,5
+Seaweed Packaging,2,5,6,85,58,7
+Foil Wrap,2,2,7,89,39,5
+Compressed Paper,1,22,9,87,70,3
+Molded Fiber,2,16,6,45,74,7
+Banana Fiber,1,25,9,64,80,3
+Composite Packaging,1,2,5,95,25,8
+Tin Container,1,10,3,85,54,10
+Hardboard,1,2,5,98,34,8
+Eco Wrap,2,16,3,95,62,9
+Glass Jar,1,16,9,79,60,4
+Coconut Fiber,1,19,3,68,60,9
+Rigid Box,2,29,7,46,90,6
+Cardboard Box,2,7,8,79,55,5
+Mushroom Packaging,3,22,5,52,88,9
+Softwood Box,2,12,6,77,66,8
+Plastic Container,2,24,5,57,92,9
+Organic Fiber,3,15,7,41,74,5
+Reusable Container,2,8,3,47,45,9
+PET Bottle,2,6,7,50,53,6
+Silicone Wrap,2,28,4,72,88,9
+Paperboard,2,27,4,93,102,9
+Biodegradable Film,3,10,6,77,78,7
+Foil Wrap,2,3,7,87,40,5
+Tin Container,2,19,9,66,69,4
+Bamboo Fiber,3,17,6,59,87,7
+Bubble Wrap,1,7,9,51,46,5
+Steel Container,3,21,6,82,87,7
+Thermoformed Plastic,1,20,4,70,60,9
+Plastic Barrel,3,26,6,66,100,7
+Recycled Paper,3,4,4,71,67,8
+Cellulose Film,2,14,3,49,70,11
+Straw Packaging,1,20,9,42,63,4
+Wood Crate,2,22,7,84,86,6
+Bagasse,1,15,6,66,52,8
+Hemp Fiber,3,24,4,74,100,9
+Palm Leaf,3,8,5,70,72,7
+Coconut Fiber,1,21,9,54,75,4
+Hardboard,2,15,6,55,71,6
+Honeycomb Board,2,22,8,52,86,4
+Plant-based Plastic,2,20,3,88,75,10
+Foil Wrap,2,28,3,74,98,11
+Molded Fiber,3,14,5,91,83,7
+Honeycomb Board,3,27,4,50,106,10
+Corrugated Tray,3,29,6,98,115,7
+Wood Pulp,3,9,9,60,67,3
+Molded Fiber,3,8,4,90,71,9
+Molded Fiber,2,26,3,93,92,11
+Refillable Bottle,2,28,4,50,86,9
+Organic Polymer,2,26,3,69,85,10
+Silicone Wrap,2,17,4,99,75,8
+Palm Leaf,3,2,5,87,64,8
+Compressed Paper,3,25,7,92,98,6
+Bubble Wrap,3,24,5,74,102,8
+Wood Crate,1,3,5,61,37,7
+Natural Fiber,2,8,7,77,55,7
+Bubble Wrap,2,12,7,70,53,7
+Glass Bottle,3,1,6,53,45,7
+Areca Leaf,2,10,9,63,65,3
+Aluminum Can,2,20,9,89,87,4
+Eco Wrap,3,3,6,88,60,8
+Wax Coated Paper,1,6,5,71,36,7
+PVC Container,1,7,5,75,43,9
+Organic Polymer,1,20,3,71,76,11
+Bagasse,3,23,3,94,89,9
+Bamboo Fiber,2,25,9,54,83,3
+Leather Wrap,3,27,6,82,103,7
+Corn Starch Pack,3,18,8,97,82,5
+Mushroom Packaging,2,11,8,74,52,6
+Honeycomb Board,1,19,6,42,67,6
+Corn Starch Pack,1,5,3,55,31,9
+Molded Fiber,3,19,9,44,86,4
+Wax Coated Paper,1,11,9,60,39,5
+Corrugated Tray,3,24,3,49,108,11
+Glass Jar,3,12,8,58,76,5
+Plastic Container,2,10,4,64,59,8
+Jute Bag,2,8,4,43,51,9
+Paper Wrap,2,24,3,68,91,10
+Molded Fiber,3,28,4,58,107,9
+Paper Wrap,2,28,7,82,100,6
+Plywood Box,1,9,6,41,37,6
+Reusable Container,1,4,6,49,44,7
+Paper Wrap,3,5,3,82,64,9
+Bagasse,3,21,5,64,85,8
+Foam Insert,2,8,8,59,45,6
+Wood Wool,3,23,3,87,101,9
+Honeycomb Board,3,9,4,58,59,10
+Rice Husk Packaging,1,15,8,62,63,5
+Wood Pulp,1,15,5,63,48,8
+Banana Fiber,2,16,4,50,80,9
+Paperboard,3,14,9,85,74,3
+Bagasse,3,8,7,73,64,7
+Plant-based Plastic,1,18,4,94,68,8
+Thermoformed Plastic,3,10,7,67,79,5
+Cloth Wrap,1,28,8,44,73,5
+Rice Husk Packaging,2,20,7,98,71,7
+Eco Wrap,1,6,8,44,31,5
+Corrugated Tray,3,12,8,90,69,4
+Rice Husk Packaging,2,2,8,60,44,5
+Bagasse,1,7,8,51,42,6
+Reusable Container,1,16,8,89,68,5
+PET Bottle,2,3,4,43,47,10
+Softwood Box,2,13,8,93,74,6
+Glass Jar,1,3,4,88,31,9
+Bioplastic,3,27,8,81,101,4
+Rice Husk Packaging,1,18,7,59,56,6
+Plywood Box,2,11,9,77,69,3
+Organic Polymer,1,8,8,64,51,4
+Bioplastic,2,6,5,53,46,8
+Corn Starch Pack,2,1,8,50,43,4
+Molded Fiber,3,28,8,71,107,4
+Paper Wrap,2,1,7,50,43,6
+Rice Husk Packaging,2,23,6,57,87,7
+Kraft Paper,3,8,7,66,76,6
+Bagasse,2,5,5,94,53,7
+Tin Container,3,28,6,93,109,8
+Cardboard Box,3,16,3,57,83,9
+Hardboard,2,11,3,95,69,11
+Tin Container,2,5,5,62,46,8
+Jute Bag,1,4,7,50,44,7
+Biodegradable Film,3,6,4,60,60,9
+Metal Drum,1,14,5,83,54,8
+Softwood Box,2,22,9,44,88,5
+Softwood Box,1,19,6,62,73,7
+Foam Insert,3,9,6,80,69,8
+Plant-based Plastic,1,12,8,98,53,5
+Organic Fiber,3,11,3,64,71,9
+Jute Bag,2,14,6,80,76,6
+Banana Fiber,2,23,5,93,93,8
+Straw Packaging,3,16,6,49,88,7
+Softwood Box,2,1,5,61,37,9
+PVC Container,2,13,4,58,73,8
+Organic Fiber,2,23,8,40,86,6
+Textile Packaging,2,21,3,46,85,10
+Cloth Wrap,3,21,6,43,96,7
+Bamboo Fiber,1,13,5,40,53,9
+Jute Bag,1,2,7,54,30,6
+Composite Packaging,2,4,3,79,47,9
+Cardboard Box,1,28,4,51,78,10
+Metal Drum,1,6,5,61,30,7
+Wood Crate,2,26,9,61,91,3
+Paperboard,2,27,9,89,101,3
+Plywood Box,1,23,8,86,68,6
+Steel Container,3,27,8,56,108,5
+Areca Leaf,2,5,4,68,58,8
+Molded Fiber,3,25,4,85,96,8
+Cloth Wrap,1,3,8,53,39,4
+Plastic Barrel,2,1,6,89,40,7
+Bio Foam,3,4,6,59,49,7
+Plastic Barrel,2,25,5,89,81,9
+Bioplastic,1,20,7,87,64,6
+Tin Container,3,2,5,72,52,9
+Wood Wool,1,26,7,94,88,7
+Refillable Bottle,1,5,4,98,41,10
+Plastic Barrel,2,3,3,82,41,11
+Tin Container,3,29,5,54,109,9
+Glass Jar,1,28,5,51,79,7
+Corrugated Tray,1,29,7,79,78,6
+HDPE Container,3,9,4,93,70,8
+Jute Bag,1,20,4,59,62,10
+Wax Coated Paper,1,6,9,69,42,4
+Bamboo Fiber,3,18,7,77,88,5
+Glass Jar,3,6,4,42,63,8
+Leather Wrap,3,19,8,67,97,6
+Mushroom Packaging,3,28,6,95,101,6
+Corrugated Tray,2,12,9,65,66,3
+Bamboo Fiber,3,25,8,69,106,4
+Air Cushion Packaging,2,11,3,52,63,9
+Corn Starch Pack,2,2,5,52,52,7
+Refillable Bottle,2,15,9,41,62,5
+Jute Bag,1,12,3,76,51,11
+Foam Insert,2,12,5,88,69,7
+Corn Starch Pack,2,9,6,77,53,8
+Plastic Container,1,21,4,41,72,10
+Flexible Packaging,1,24,8,75,75,5
+Organic Polymer,1,2,7,93,29,5
+Bagasse,3,22,8,65,97,6
+Rice Husk Packaging,1,3,6,50,40,8
+Jute Bag,1,12,3,47,51,9
+Foil Wrap,2,28,7,83,99,6
+Organic Polymer,1,26,4,79,87,8
+Natural Fiber,3,16,6,82,73,7
+Glass Jar,1,21,7,61,62,5
+Bagasse,3,28,6,59,110,6
+Thermoformed Plastic,1,24,6,47,78,6
+PET Bottle,1,26,4,68,71,8
+Natural Fiber,1,1,9,79,35,4
+Silicone Wrap,1,21,5,65,61,8
+Molded Fiber,3,3,7,69,62,7
+PET Bottle,3,20,4,56,94,8
+Hemp Fiber,2,2,6,59,52,7
+Glass Bottle,3,9,4,91,71,9
+Metal Drum,1,19,9,94,69,4
+Seaweed Packaging,2,15,5,55,72,7
+Plastic Container,2,18,8,85,83,6
+Molded Fiber,2,26,7,82,86,6
+Mushroom Packaging,1,11,5,46,48,7
+Steel Container,3,25,3,55,105,10
+Composite Packaging,1,23,7,84,82,6
+Bamboo Fiber,2,16,5,98,66,9
+PVC Container,1,22,6,86,70,7
+Silicone Wrap,1,17,7,95,57,6
+Plastic Container,3,5,7,87,67,5
+Biodegradable Film,3,12,4,66,82,8
+Rigid Box,2,11,6,92,67,8
+Coconut Fiber,1,15,3,62,55,9
+Glass Bottle,1,27,8,63,80,4
+Cloth Wrap,3,3,9,48,56,5
+HDPE Container,1,1,5,74,25,8
+LDPE Wrap,1,20,4,90,72,10
+Wood Crate,1,29,5,59,92,7
+Straw Packaging,3,16,3,76,78,11
+Mushroom Packaging,2,2,3,81,52,10
+Recycled Paper,2,2,7,56,33,7
+Kraft Paper,1,3,9,86,23,3
+Plastic Barrel,2,8,3,70,56,9
+Fiberboard,3,24,5,94,90,9
+Corn Starch Pack,3,28,6,96,100,7
+Foam Insert,2,15,6,47,75,8
+Compressed Paper,2,7,7,54,46,6
+PET Bottle,1,6,8,70,39,5
+Corn Starch Pack,2,9,5,92,50,9
+PET Bottle,1,20,5,69,57,8
+Banana Fiber,1,28,3,85,79,9
+Recycled Paper,3,1,9,59,60,5
+Bamboo Fiber,3,8,5,99,65,8
+Molded Fiber,3,23,4,78,89,8
+Cellulose Film,3,23,8,92,94,6
+Foam Insert,2,3,3,94,53,9
+PET Bottle,3,4,4,51,52,8
+Paper Wrap,2,26,7,88,98,5
+Corrugated Board,3,25,6,56,110,7
+Corrugated Tray,2,15,7,81,69,7
+Honeycomb Board,1,6,6,69,42,8
+Foil Wrap,2,15,7,68,76,6
+Greaseproof Paper,2,21,5,58,86,9
+Softwood Box,3,3,4,85,49,8
+LDPE Wrap,2,25,6,50,93,8
+Aluminum Can,1,21,3,73,62,10
+Molded Fiber,1,21,4,89,63,8
+Textile Packaging,3,14,3,46,85,10
+Recycled Paper,1,20,4,83,63,8
+Hardboard,2,14,4,97,72,8
+Recycled Paper,1,4,7,73,38,7
+Foam Insert,3,12,6,98,80,6
+Eco Wrap,2,17,6,59,69,7
+Bio Foam,3,7,9,89,63,5
+Plastic Barrel,2,9,4,77,50,9
+Corn Starch Pack,1,3,5,63,33,7
+Cellulose Film,3,28,5,49,98,8
+Thermoformed Plastic,3,13,3,71,78,10
+Seaweed Packaging,2,15,3,91,70,9
+Eco Wrap,3,18,7,54,80,7
+Refillable Bottle,2,19,4,76,84,9
+Hemp Fiber,2,1,3,59,37,9
+Palm Leaf,2,6,3,42,41,11
+Fiberboard,2,27,8,76,95,6
+Paper Wrap,1,27,4,96,76,10
+Compressed Paper,2,23,7,79,80,6
+Corrugated Board,3,27,3,47,106,10
+Bagasse,1,27,7,79,78,6
+Thermoformed Plastic,3,2,6,83,63,8
+Jute Bag,1,24,7,95,69,6
+Bagasse,2,14,5,62,74,7
+Tin Container,1,6,5,79,33,8
+Flexible Packaging,1,14,7,50,54,6
+Wood Crate,3,4,5,85,49,9
+Plastic Barrel,3,21,6,47,92,7
+Wood Crate,2,8,4,68,49,8
+Molded Fiber,1,3,5,69,34,9
+Bubble Wrap,1,19,5,95,61,7
+Biodegradable Film,1,14,7,99,53,7
+Flexible Packaging,2,27,6,49,94,8
+Rubber Packaging,2,20,9,78,69,4
+Wood Wool,2,17,9,67,73,3
+Rigid Box,2,25,9,88,93,5
+Honeycomb Board,2,8,9,75,46,4
+Mushroom Packaging,3,24,4,52,108,10
+Softwood Box,1,14,7,71,51,7
+Cloth Wrap,1,26,7,75,80,7
+Bamboo Fiber,1,6,8,76,46,6
+Composite Packaging,1,23,6,65,65,8
+Metal Drum,1,22,9,61,67,5
+Aluminum Can,1,16,4,43,59,9
+Rice Husk Packaging,1,25,6,70,84,8
+Eco Wrap,1,19,9,57,66,3
+Foil Wrap,3,14,4,77,74,9
+Coconut Fiber,1,19,6,63,59,6
+Bioplastic,3,3,7,95,47,7
+Greaseproof Paper,2,10,7,62,60,5
+Leather Wrap,1,19,3,61,65,11
+Glass Bottle,2,9,5,41,50,9
+Softwood Box,2,28,9,70,102,4
+Straw Packaging,2,20,8,94,72,5
+Seaweed Packaging,3,13,6,50,83,8
+Refillable Bottle,2,7,8,67,44,5
+Cotton Bag,2,14,3,85,58,9
+Paperboard,2,9,5,71,58,8
+Honeycomb Board,1,27,6,44,76,7
+Air Cushion Packaging,1,28,4,77,82,8
+Rigid Box,3,23,9,49,102,4
+Refillable Bottle,3,25,5,79,104,9
+Softwood Box,1,28,7,85,79,5
+Paper Wrap,3,19,3,63,97,11
+Bio Foam,1,15,5,74,63,7
+Wax Coated Paper,2,20,9,83,77,5
+Aluminum Can,2,14,5,87,69,9
+Rice Husk Packaging,3,24,9,99,93,4
+Glass Bottle,1,6,7,62,33,7
+Corrugated Board,1,21,6,56,68,7
+Natural Fiber,3,29,4,40,108,8
+Glass Jar,1,4,7,94,31,7
+Natural Fiber,2,8,4,70,59,10
+HDPE Container,3,17,6,70,81,6
+Mushroom Packaging,3,9,5,81,73,7
+Paper Wrap,1,1,4,96,21,10
+Plant-based Plastic,3,24,3,94,107,9
+Recycled Paper,1,20,3,81,66,10
+Kraft Paper,1,25,9,92,81,3
+Corrugated Tray,1,14,7,95,47,5
+Straw Packaging,1,11,6,73,44,8
+Hardboard,1,21,9,48,70,4
+Plywood Box,3,3,7,61,61,5
+PET Bottle,2,9,7,52,52,6
+Paperboard,2,27,9,64,95,4
+Plywood Box,3,14,8,87,87,5
+Compressed Paper,3,9,7,57,61,7
+Corrugated Board,2,4,8,90,44,4
+Biodegradable Film,2,27,3,51,90,11
+Jute Bag,2,4,3,79,56,9
+Straw Packaging,2,28,7,56,99,5
+Compressed Paper,2,8,3,54,48,11
+Glass Bottle,1,2,6,81,39,7
+Thermoformed Plastic,3,9,8,54,61,5
+Mushroom Packaging,1,29,8,54,87,4
+Eco Wrap,2,14,7,94,64,7
+Glass Jar,2,22,3,78,88,10
+Hemp Fiber,2,9,4,52,59,9
+Coconut Fiber,1,24,9,56,67,3
+Plant-based Plastic,1,23,9,71,78,3
+LDPE Wrap,2,16,8,48,69,6
+Wood Wool,1,29,7,79,88,5
+LDPE Wrap,1,17,7,59,63,6
+Biodegradable Film,2,16,6,65,67,7
+Leather Wrap,1,12,5,66,55,8
+Plant-based Plastic,3,3,5,60,53,8
+Honeycomb Board,3,11,8,57,68,6
+Organic Polymer,3,14,9,52,70,5
+LDPE Wrap,3,18,6,55,85,6
+Leather Wrap,2,21,6,48,87,6
+Plant-based Plastic,2,21,6,51,75,6
+Glass Bottle,2,5,8,83,50,6
+Cloth Wrap,3,16,5,77,73,8
+Kraft Paper,3,20,9,58,90,3
+Bioplastic,1,5,6,99,37,7
+Greaseproof Paper,1,3,9,46,38,3
+Mushroom Packaging,3,12,3,96,78,9
+Mushroom Packaging,3,1,7,74,50,5
+Rice Husk Packaging,3,21,7,87,99,5
+Plywood Box,3,29,9,57,116,3
+Aluminum Can,1,9,4,55,46,9
+Natural Fiber,3,29,4,94,115,8
+Coconut Fiber,1,9,8,78,48,5
+Organic Fiber,3,4,8,43,64,6
+Glass Jar,3,3,7,98,60,5
+Wax Coated Paper,3,17,3,64,83,10
+Bagasse,1,2,5,71,24,9
+Wood Crate,1,24,5,79,75,9
+Kraft Paper,2,1,8,52,36,6
+Kraft Paper,3,8,3,84,71,10
+Greaseproof Paper,2,13,8,56,59,4
+Foil Wrap,2,23,5,88,85,7
+Banana Fiber,1,15,9,76,64,4
+Banana Fiber,1,8,8,45,45,4
+Rigid Box,2,12,6,58,63,7
+Hardboard,3,22,9,52,98,3
+Biodegradable Film,1,12,8,96,58,6
+Foam Insert,3,14,7,99,87,5
+Plant-based Plastic,3,15,8,65,85,5
+Corn Starch Pack,2,15,7,53,67,6
+Bio Foam,2,9,3,70,54,11
+Glass Bottle,2,19,5,93,86,8
+Silicone Wrap,2,26,9,43,81,3
+Foam Insert,1,20,9,99,60,3
+Wood Pulp,1,29,4,78,88,10
+Bio Foam,2,22,4,47,74,9
+Paper Wrap,1,8,5,64,48,9
+Glass Bottle,2,21,4,52,73,8
+Jute Bag,3,19,9,71,86,5
+Composite Packaging,3,6,8,98,58,5
+Plywood Box,3,20,3,77,96,11
+Refillable Bottle,2,25,3,77,94,10
+Recycled Paper,3,29,5,95,105,8
+Rigid Box,1,19,4,67,67,8
+Paperboard,3,4,8,92,61,4
+Eco Wrap,3,23,3,69,91,9
+Greaseproof Paper,3,7,3,42,74,10
+Honeycomb Board,1,28,6,67,90,8
+Reusable Container,2,28,6,42,99,7
+Foam Insert,1,4,9,84,42,3
+Paperboard,2,22,3,93,74,9
+Plastic Barrel,2,12,5,73,62,9
+Paper Wrap,3,13,7,55,79,5
+Wood Crate,2,3,7,61,52,5
+Organic Polymer,1,22,8,71,75,4
+Eco Wrap,1,12,3,77,52,11
+Greaseproof Paper,2,2,3,47,47,10
+Hemp Fiber,3,24,9,94,101,3
+Flexible Packaging,3,2,3,47,62,11
+Cardboard Box,1,27,5,96,85,7
+Paperboard,3,23,6,45,97,8
+Hemp Fiber,2,9,3,53,65,9
+Air Cushion Packaging,2,1,3,71,33,11
+Greaseproof Paper,1,8,9,74,39,3
+Steel Container,2,23,4,49,88,9
+Corrugated Board,1,6,9,42,42,3
+Glass Jar,2,6,9,98,53,5
+Seaweed Packaging,1,22,5,51,72,7
+LDPE Wrap,3,25,8,88,99,5
+Palm Leaf,2,18,3,98,65,9
+Wood Wool,2,17,9,70,81,5
+Flexible Packaging,1,29,9,68,85,5
+PET Bottle,1,12,4,44,59,9
+Thermoformed Plastic,2,6,9,91,58,5
+Mushroom Packaging,1,26,7,64,80,5
+Textile Packaging,2,27,8,80,83,4
+Foil Wrap,3,8,3,70,75,9
+Mushroom Packaging,1,19,3,60,74,11
+Bamboo Fiber,2,28,4,97,101,8
+Foil Wrap,3,10,5,59,65,7
+Areca Leaf,3,1,3,78,45,9
+Bioplastic,2,25,7,61,80,6
+Banana Fiber,1,29,3,43,77,11
+Seaweed Packaging,2,13,7,52,62,7
+Plywood Box,3,17,8,84,90,6
+Wood Crate,2,3,8,81,40,5
+PVC Container,1,8,6,89,45,8
+Silicone Wrap,3,14,6,88,84,7
+Rubber Packaging,2,3,7,59,50,6
+Aluminum Can,1,16,5,91,51,9
+Organic Polymer,3,13,3,52,79,9
+Paperboard,1,20,9,56,70,3
+Wood Wool,3,24,3,93,96,11
+Air Cushion Packaging,2,17,6,75,74,8
+Greaseproof Paper,1,13,9,72,50,4
+Air Cushion Packaging,3,29,7,40,107,7
+Softwood Box,1,6,9,54,29,4
+Natural Fiber,1,17,3,52,56,11
+Wood Pulp,2,14,3,56,75,9
+Bio Foam,1,17,5,63,61,7
+Kraft Paper,3,8,4,97,67,10
+Corrugated Tray,3,11,9,47,75,4
+Corrugated Tray,3,20,6,89,91,6
+Tin Container,3,28,6,66,114,7
+Wax Coated Paper,2,1,4,84,45,10
+Plastic Container,1,26,3,62,69,11
+Corrugated Board,2,7,5,85,49,7
+Fiberboard,1,21,5,47,71,9
+PVC Container,1,21,6,47,70,6
+Plastic Barrel,1,17,5,98,68,8
+Tin Container,2,10,8,65,67,4
+Aluminum Can,1,11,4,86,53,8
+Coconut Fiber,2,22,3,98,80,10
+Kraft Paper,3,9,8,52,77,4
+Aluminum Can,3,9,4,78,68,8
+Plant-based Plastic,1,24,7,76,71,7
+Corrugated Tray,2,5,9,88,56,4
+Thermoformed Plastic,3,17,6,67,90,6
+Coconut Fiber,2,9,5,64,66,8
+Wood Crate,2,17,7,55,68,6
+Paperboard,1,24,5,94,73,7
+Plant-based Plastic,3,21,8,41,95,6
+Recycled Paper,1,19,3,93,62,10
+Textile Packaging,1,27,3,57,86,9
+Glass Bottle,3,7,3,56,67,10
+Paperboard,3,23,5,69,99,9
+Areca Leaf,2,9,7,78,63,7
+Corn Starch Pack,3,7,3,52,74,11
+Cellulose Film,2,13,7,71,59,5
+Jute Bag,2,11,5,89,67,7
+Eco Wrap,2,14,8,68,65,6
+Paper Wrap,3,19,7,85,80,5
+Hemp Fiber,1,11,8,69,56,6
+Wood Wool,2,13,5,57,63,7
+LDPE Wrap,1,14,5,52,50,9
+HDPE Container,1,13,6,82,53,7
+Cotton Bag,3,1,5,60,48,9
+Corrugated Board,1,8,5,69,38,9
+Softwood Box,1,12,4,60,53,8
+Aluminum Can,3,19,3,87,89,9
+Biodegradable Film,2,12,6,94,66,6
+Bioplastic,1,8,9,56,34,3
+Glass Bottle,3,8,6,79,64,6
+Glass Jar,1,29,6,58,77,6
+Bioplastic,1,21,9,91,61,4
+Textile Packaging,2,13,4,54,55,10
+Cardboard Box,1,12,8,48,59,6
+Bamboo Fiber,3,29,5,91,116,9
+PVC Container,1,16,3,49,65,10
+Cardboard Box,2,1,7,83,50,7
+Straw Packaging,2,13,9,70,67,4
+Honeycomb Board,3,26,8,92,95,5
+Mushroom Packaging,2,7,9,62,43,4
+Plastic Container,1,28,5,91,76,9
+Palm Leaf,2,26,4,69,93,9
+Tin Container,3,5,9,72,67,5
+LDPE Wrap,2,8,5,96,55,9
+Metal Drum,2,25,5,91,80,7
+Refillable Bottle,2,27,4,48,98,8
+Rice Husk Packaging,3,14,6,93,70,7
+Corrugated Tray,2,23,6,86,93,7
+Bubble Wrap,2,13,3,40,73,11
+Biodegradable Film,1,15,3,83,62,10
+Plastic Container,3,23,6,74,105,7
+Plywood Box,2,17,8,50,71,6
+Metal Drum,3,15,7,73,71,6
+Paper Wrap,2,20,5,55,78,8
+PVC Container,2,18,7,48,83,7
+Wood Wool,2,18,5,71,65,9
+Wood Pulp,1,2,6,54,22,6
+Bubble Wrap,1,4,3,51,40,11
+Wood Wool,1,1,8,72,30,4
+Cotton Bag,3,4,3,84,56,10
+Hemp Fiber,3,18,7,53,94,7
+Bubble Wrap,1,5,3,96,28,11
+Leather Wrap,3,19,6,96,91,8
+Metal Drum,2,15,8,47,64,5
+HDPE Container,2,28,7,47,90,5
+Glass Bottle,2,8,8,66,53,5
+Paperboard,1,20,5,51,72,8
+Corrugated Tray,3,17,3,40,85,11
+Kraft Paper,1,1,8,82,25,4
+Silicone Wrap,3,12,4,79,74,9
+Seaweed Packaging,2,26,3,81,90,11
+PVC Container,1,19,5,90,74,8
+PET Bottle,3,15,8,50,88,5
+Hemp Fiber,3,9,7,78,78,7
+Hardboard,2,7,5,82,51,9
+Plant-based Plastic,1,2,4,70,35,8
+LDPE Wrap,1,29,8,56,78,5
+Glass Jar,1,9,9,72,42,5
+Honeycomb Board,2,10,9,71,57,5
+Palm Leaf,1,2,6,97,33,6
+Foil Wrap,2,19,3,68,75,9
+Mushroom Packaging,2,11,7,60,54,7
+Coconut Fiber,2,13,6,60,71,6
+Natural Fiber,3,10,8,79,76,6
+Plant-based Plastic,1,14,9,62,59,4
+PET Bottle,1,18,9,95,55,3
+Plant-based Plastic,2,19,9,45,86,4
+Aluminum Can,2,22,8,61,77,5
+Banana Fiber,1,9,9,89,39,4
+Steel Container,2,25,5,77,98,9
+Plant-based Plastic,1,7,8,76,45,5
+Silicone Wrap,3,28,7,84,114,6
+Wood Wool,2,3,6,90,49,7
+Palm Leaf,1,20,7,93,58,7
+Cloth Wrap,2,6,4,47,53,9
+Softwood Box,1,27,9,80,74,4
+Rigid Box,1,21,4,88,68,8
+Plastic Barrel,2,2,3,74,45,11
+Cloth Wrap,3,29,3,90,108,10
+LDPE Wrap,1,6,4,50,37,8
+Thermoformed Plastic,1,3,8,63,30,6
+Rigid Box,1,16,7,88,51,7
+Wax Coated Paper,3,8,4,60,72,10
+Softwood Box,3,2,3,90,58,11
+Areca Leaf,2,17,4,41,71,10
+Coconut Fiber,3,9,8,79,69,6
+Bioplastic,2,12,4,58,55,9
+Glass Bottle,2,3,7,78,39,6
+LDPE Wrap,3,11,6,67,72,7
+Bamboo Fiber,2,1,8,98,43,5
+Fiberboard,3,23,3,56,90,9
+Eco Wrap,2,13,7,45,67,6
+Organic Polymer,3,15,4,58,82,10
+Greaseproof Paper,3,26,4,95,97,9
+Palm Leaf,2,5,6,77,48,7
+Cloth Wrap,1,21,3,67,67,11
+Wood Crate,2,17,3,41,82,10
+Glass Bottle,3,25,5,77,97,8
+Cloth Wrap,1,23,3,94,64,10
+Eco Wrap,2,24,6,76,83,6
+Areca Leaf,2,25,9,90,86,4
+Recycled Paper,2,6,5,91,47,9
+Cardboard Box,1,28,5,43,86,9
+Rigid Box,3,21,4,61,101,9
+Plastic Barrel,2,22,4,65,77,9
+Plastic Barrel,2,11,3,88,68,10
+Paperboard,2,18,5,82,84,9
+Organic Fiber,2,4,4,75,48,10
+Rigid Box,2,3,6,97,51,6
+Rice Husk Packaging,3,13,4,52,79,8
+Cellulose Film,3,23,8,91,88,4
+Cotton Bag,2,9,8,97,59,6
+LDPE Wrap,1,21,4,71,65,8
+Aluminum Can,3,6,5,56,62,8
+Glass Jar,1,26,9,80,74,4
+Eco Wrap,3,28,9,75,99,5
+Composite Packaging,2,12,5,94,55,7
+Jute Bag,3,2,7,99,62,6
+Bamboo Fiber,2,3,9,85,45,5
+Corrugated Tray,3,3,8,58,66,4
+Bubble Wrap,2,28,6,97,89,7
+Organic Fiber,2,12,5,99,71,7
+Areca Leaf,2,15,3,74,77,11
+Glass Bottle,2,9,8,85,61,4
+HDPE Container,1,23,6,79,78,8
+Fiberboard,2,8,6,95,53,6
+Plastic Container,1,11,5,98,42,8
+Plant-based Plastic,1,16,6,67,63,8
+Cloth Wrap,2,26,5,40,92,9
+PVC Container,1,27,9,81,73,5
+Rubber Packaging,3,25,4,57,104,8
+Cotton Bag,2,22,8,87,89,4
+Glass Jar,1,4,7,79,43,6
+Paper Wrap,2,28,4,72,90,10
+Composite Packaging,2,1,8,51,34,6
+Bio Foam,2,24,5,47,83,7
+Plastic Barrel,1,7,8,63,49,4
+Compressed Paper,3,2,9,55,61,4
+Thermoformed Plastic,3,24,5,89,104,8
+Paper Wrap,1,28,4,43,87,8
+Honeycomb Board,2,5,3,77,46,11
+Compressed Paper,1,7,3,83,49,10
+Wax Coated Paper,1,4,8,66,32,4
+PVC Container,1,5,3,48,44,9
+Palm Leaf,2,24,5,86,92,9
+Bio Foam,1,1,6,55,38,6
+Eco Wrap,2,1,5,95,49,7
+Natural Fiber,1,15,6,51,56,7
+Plastic Container,3,20,4,70,97,8
+Organic Polymer,1,19,7,63,67,5
+Thermoformed Plastic,1,29,6,94,87,7
+Paperboard,3,10,3,53,67,11
+Rubber Packaging,2,28,5,84,94,9
+Metal Drum,2,18,4,64,66,9
+Honeycomb Board,1,28,3,73,76,10
+Foil Wrap,3,3,4,42,52,10
+LDPE Wrap,2,11,7,97,68,7
+Cardboard Box,1,15,9,63,52,5
+Steel Container,3,27,5,93,111,9
+Plywood Box,2,11,8,81,64,6
+Mushroom Packaging,2,17,5,48,73,8
+Organic Fiber,3,17,7,65,93,5
+Air Cushion Packaging,3,6,5,59,54,9
+Plant-based Plastic,3,5,8,79,53,6
+Compressed Paper,3,8,6,49,67,6
+Tin Container,1,2,4,58,26,8
+Foil Wrap,3,16,8,42,86,4
+Organic Polymer,2,20,3,63,87,9
+Softwood Box,2,24,7,44,92,5
+Refillable Bottle,1,12,6,42,47,6
+Cloth Wrap,2,6,3,97,48,10
+Honeycomb Board,2,1,3,66,49,9
+Wood Pulp,3,4,7,55,68,5
+Paperboard,2,17,6,88,78,7
+Flexible Packaging,1,13,9,54,49,3
+Refillable Bottle,3,18,3,74,85,11
+Refillable Bottle,3,5,3,51,63,11
+Cellulose Film,1,24,6,80,65,6
+Honeycomb Board,3,24,5,92,96,8
+Foam Insert,3,27,3,83,98,11
+Refillable Bottle,1,3,4,65,25,9
+Paper Wrap,3,11,6,86,65,8
+Bamboo Fiber,1,13,3,73,55,9
+Plant-based Plastic,1,4,7,62,32,6
+Greaseproof Paper,2,26,8,70,87,5
+Corrugated Tray,2,27,4,89,83,9
+Hardboard,3,14,8,59,84,6
+Leather Wrap,3,22,8,51,90,6
+Cloth Wrap,1,11,3,62,45,11
+Refillable Bottle,3,27,4,43,106,8
+Recycled Paper,1,10,4,62,45,10
+Leather Wrap,1,19,5,87,65,7
+Bagasse,3,18,8,94,86,5
+PVC Container,1,6,4,87,29,9
+Corn Starch Pack,2,27,5,40,100,7
+Seaweed Packaging,3,29,6,93,102,8
+Paper Wrap,2,15,5,64,63,7
+Eco Wrap,3,21,7,41,91,6
+Coconut Fiber,1,10,9,69,53,4
+LDPE Wrap,3,5,3,42,53,9
+Plant-based Plastic,2,26,6,97,96,8
+Honeycomb Board,1,29,9,60,79,5
+Kraft Paper,3,5,9,64,66,3
+Paper Wrap,3,10,6,59,63,6
+Wood Crate,3,28,7,88,116,7
+Cloth Wrap,2,5,5,91,53,8
+Wax Coated Paper,2,3,3,61,37,9
+Corrugated Board,3,23,5,60,106,9
+Hardboard,1,6,4,72,42,10
+Bioplastic,1,4,5,91,40,8
+Plywood Box,2,18,6,77,81,7
+Wax Coated Paper,1,28,3,54,92,10
+Hardboard,2,9,5,97,64,8
+Biodegradable Film,3,17,3,97,92,10
+Steel Container,2,29,3,85,100,9
+Wood Crate,2,13,4,91,72,10
+Straw Packaging,3,27,4,54,109,8
+Thermoformed Plastic,1,15,6,85,61,6
+Banana Fiber,2,20,7,64,74,5
+Air Cushion Packaging,2,17,9,60,77,3
+Compressed Paper,3,13,3,63,84,9
+Banana Fiber,1,16,7,96,52,6
+Plant-based Plastic,2,22,9,97,80,4
+Wood Crate,3,4,9,44,63,5
+Plywood Box,2,5,6,45,41,6
+Metal Drum,3,5,9,88,65,5
+Hardboard,1,9,9,82,47,4
+Composite Packaging,1,17,3,87,59,10
+Bagasse,1,13,3,83,44,10
+Areca Leaf,1,2,8,86,28,4
+HDPE Container,2,13,7,62,74,5
+Compressed Paper,2,22,5,43,89,8
+Hemp Fiber,1,21,4,66,71,10
+Wax Coated Paper,1,27,5,57,71,9
+Reusable Container,1,23,7,60,64,6
+Steel Container,2,19,4,67,81,10
+Steel Container,1,3,5,74,34,8
+Softwood Box,1,10,8,61,50,6
+Glass Jar,1,2,4,79,22,9
+Corn Starch Pack,3,13,3,62,84,11
+Corn Starch Pack,1,19,5,42,61,7
+Plastic Barrel,3,26,4,79,98,9
+Cloth Wrap,3,17,8,89,88,5
+Bubble Wrap,1,21,9,49,66,5
+Cardboard Box,3,14,4,64,70,9
+Paper Wrap,1,12,4,91,57,9
+Eco Wrap,2,21,8,88,75,5
+Rice Husk Packaging,2,12,9,47,66,3
+Cellulose Film,2,11,5,94,70,7
+Cotton Bag,2,7,6,50,45,8
+Cardboard Box,3,4,5,44,53,7
+Banana Fiber,1,19,9,97,70,5
+Jute Bag,1,1,7,84,36,5
+Cellulose Film,1,28,8,92,89,6
+Glass Bottle,2,24,5,94,87,7
+HDPE Container,2,29,4,76,103,8
+LDPE Wrap,1,3,8,95,38,6
+Plastic Container,2,13,3,98,56,10
+Natural Fiber,1,15,9,84,50,4
+Textile Packaging,1,2,5,77,27,7
+Tin Container,1,11,8,68,40,6
+Leather Wrap,1,4,5,44,30,8
+Air Cushion Packaging,1,19,8,48,71,6
+Hemp Fiber,1,29,4,98,81,9
+Plastic Container,1,17,3,87,55,11
+PVC Container,2,3,3,41,39,9
+Coconut Fiber,1,28,7,40,92,7
+Foil Wrap,1,18,8,79,68,5
+Wood Pulp,2,8,5,99,63,7
+Kraft Paper,2,22,3,90,81,11
+Paperboard,2,25,9,69,83,4
+Molded Fiber,1,24,3,50,72,9
+Cloth Wrap,3,26,6,67,101,8
+HDPE Container,3,19,6,83,83,7
+Seaweed Packaging,2,5,3,51,48,11
+Silicone Wrap,3,7,8,78,56,6
+Rubber Packaging,2,21,7,65,79,5
+LDPE Wrap,1,8,3,52,43,9
+Plywood Box,3,28,4,98,100,9
+Mushroom Packaging,1,5,5,47,28,7
+HDPE Container,3,17,7,93,80,6
+Foil Wrap,1,5,4,67,40,10
+Rigid Box,3,4,7,97,49,7
+Thermoformed Plastic,1,22,4,69,78,9
+Fiberboard,1,19,5,48,61,9
+Aluminum Can,3,27,5,78,95,7
+PVC Container,1,21,6,70,59,8
+Jute Bag,1,2,8,97,21,4
+Natural Fiber,1,11,4,60,42,9
+Bioplastic,3,22,6,95,88,7
+Recycled Paper,3,13,4,86,84,10
+Mushroom Packaging,1,15,6,73,57,8
+Paperboard,1,12,5,94,41,7
+Corrugated Tray,3,22,7,70,94,5
+Composite Packaging,3,21,9,91,91,5
+Wood Wool,1,22,6,64,64,8
+Cardboard Box,1,11,4,51,44,9
+Compressed Paper,1,7,4,40,46,9
+Straw Packaging,2,28,9,94,86,4
+Plant-based Plastic,3,5,8,61,68,6
+Natural Fiber,2,17,5,79,72,9
+Plastic Barrel,3,24,4,76,105,10
+Paperboard,3,20,3,86,93,10
+Cloth Wrap,3,9,7,40,76,7
+Bio Foam,3,14,6,40,81,6
+Cotton Bag,3,26,8,96,109,6
+PVC Container,3,12,9,81,69,5
+Cotton Bag,3,6,7,93,63,7
+Plastic Barrel,2,17,5,81,69,9
+Air Cushion Packaging,1,19,8,60,64,6
+PET Bottle,1,19,6,54,71,6
+Compressed Paper,2,26,6,56,95,6
+Wax Coated Paper,2,16,9,61,78,5
+Tin Container,2,12,3,77,71,10
+Wood Pulp,2,12,9,74,54,5
+Rice Husk Packaging,3,20,5,84,84,9
+Greaseproof Paper,1,6,8,55,31,6
+Softwood Box,3,23,8,47,93,5
+Plastic Barrel,1,26,4,86,86,9
+Cellulose Film,1,4,3,56,34,10
+Corrugated Tray,2,6,3,56,47,9
+Paperboard,3,11,8,93,70,5
+Coconut Fiber,2,1,8,65,36,4
+PVC Container,3,24,7,52,89,5
+Mushroom Packaging,1,23,7,56,66,6
+Paper Wrap,2,15,7,77,72,6
+Foam Insert,2,27,3,56,99,10
+Organic Fiber,1,11,4,87,58,8
+Silicone Wrap,1,25,6,53,84,8
+Foil Wrap,1,19,7,84,65,6
+PET Bottle,2,18,4,45,78,9
+Metal Drum,3,17,9,74,83,4
+Corrugated Board,2,19,5,85,81,7
+Textile Packaging,3,21,7,53,94,5
+Plant-based Plastic,2,14,9,86,66,5
+Jute Bag,2,27,6,47,101,7
+Corn Starch Pack,1,18,5,54,71,7
+Textile Packaging,3,28,5,93,102,9
+Air Cushion Packaging,2,19,6,66,86,7
+Refillable Bottle,2,15,7,52,64,5
+Foam Insert,1,15,3,88,54,10
+Mushroom Packaging,1,4,6,70,25,7
+Thermoformed Plastic,3,7,6,92,71,6
+Wax Coated Paper,2,13,6,95,71,6
+Eco Wrap,3,3,5,74,61,7
+Jute Bag,2,16,4,99,67,9
+Corrugated Tray,3,9,9,45,77,4
+Wood Crate,1,8,3,44,35,11
+Bio Foam,2,20,7,61,79,6
+Foil Wrap,3,13,7,97,86,5
+Jute Bag,1,17,9,88,69,4
+Palm Leaf,1,17,4,62,59,10
+Air Cushion Packaging,3,17,6,64,84,8
+Paperboard,2,1,3,73,32,9
+Paperboard,2,8,7,65,45,5
+Eco Wrap,1,19,9,86,70,5
+Hardboard,2,6,8,44,58,6
+Bioplastic,2,3,9,65,51,5
+Bagasse,2,27,7,59,88,5
+Mushroom Packaging,1,5,6,45,40,8
+Glass Jar,3,13,8,45,81,6
+Paperboard,2,15,4,98,72,8
+Steel Container,1,14,3,89,47,10
+Hemp Fiber,1,29,4,57,93,9
+Steel Container,3,23,4,43,98,10
+Plastic Container,2,16,9,56,62,4
+Reusable Container,2,18,3,96,67,10
+Air Cushion Packaging,3,22,3,53,102,10
+PET Bottle,3,29,7,53,99,6
+Seaweed Packaging,1,22,7,52,80,7
+Air Cushion Packaging,1,11,3,46,44,10
+Mushroom Packaging,3,3,8,83,51,5
+Hemp Fiber,2,22,5,94,73,7
+Fiberboard,1,10,7,54,55,7
+Tin Container,1,10,5,58,37,7
+Bubble Wrap,2,21,9,82,86,3
+Recycled Paper,1,16,8,86,60,6
+Corrugated Board,2,12,3,83,60,10
+HDPE Container,2,2,8,74,48,4
+Organic Fiber,2,9,7,56,47,7
+PVC Container,3,24,4,74,92,9
+Wax Coated Paper,3,3,9,58,56,5
+PET Bottle,3,24,3,59,99,9
+Palm Leaf,2,25,6,75,95,7
+Kraft Paper,2,15,9,74,65,4
+Foil Wrap,3,3,5,71,58,9
+Bamboo Fiber,1,19,8,97,61,5
+Softwood Box,2,18,3,87,76,9
+Bagasse,1,8,9,83,47,3
+Silicone Wrap,1,26,8,79,70,4
+Coconut Fiber,2,17,3,63,76,11
+Wax Coated Paper,2,8,7,56,57,6
+Silicone Wrap,1,7,9,46,34,4
+Plywood Box,1,7,7,82,44,6
+Leather Wrap,3,3,9,89,60,3
+Bamboo Fiber,3,1,7,40,58,6
+Bamboo Fiber,2,4,8,74,43,4
+Seaweed Packaging,3,25,6,71,109,7
+Hardboard,3,5,9,75,52,3
+PET Bottle,3,1,9,52,52,4
+Composite Packaging,3,15,7,45,88,7
+Cloth Wrap,1,5,3,97,43,11
+Corrugated Tray,2,13,9,53,59,3
+Corrugated Tray,3,8,7,76,68,5
+Thermoformed Plastic,1,8,4,87,38,9
+Bagasse,1,5,7,54,35,6
+Greaseproof Paper,1,28,8,86,92,6
+Bioplastic,3,9,6,43,59,7
+Leather Wrap,3,1,4,79,57,8
+Foil Wrap,2,4,8,98,42,4
+Glass Bottle,3,3,8,55,65,4
+Straw Packaging,3,2,8,67,62,4
+Refillable Bottle,1,8,3,55,38,9
+Corrugated Board,2,23,8,43,87,6
+Recycled Paper,3,9,3,84,59,11
+Hemp Fiber,3,2,8,65,57,4
+Leather Wrap,1,14,5,67,51,8
+Areca Leaf,1,14,4,71,59,8
+Seaweed Packaging,3,4,5,84,60,9
+Corrugated Tray,2,6,8,41,41,4
+HDPE Container,2,11,4,70,65,10
+Foil Wrap,1,3,4,42,26,10
+Reusable Container,1,8,9,93,45,3
+Straw Packaging,3,3,6,47,51,6
+Natural Fiber,1,14,5,63,46,8
+Palm Leaf,3,28,6,54,97,8
+Refillable Bottle,2,13,4,82,70,9
+Areca Leaf,2,13,3,70,60,9
+Jute Bag,3,2,4,48,60,10
+Air Cushion Packaging,1,13,6,78,56,7
+HDPE Container,2,29,5,84,89,8
+Foam Insert,1,19,8,41,69,5
+Organic Fiber,2,27,9,47,85,3
+PET Bottle,3,6,9,46,54,3
+Greaseproof Paper,3,16,9,95,73,3
+Honeycomb Board,3,2,8,83,53,6
+Composite Packaging,2,8,9,90,53,3
+Cotton Bag,1,17,5,78,57,9
+Corrugated Tray,1,23,8,81,65,5
+Foil Wrap,1,2,9,96,38,4
+Organic Polymer,2,10,8,55,59,4
+Kraft Paper,2,28,6,74,91,7
+Air Cushion Packaging,2,16,5,69,69,7
+Cellulose Film,2,6,7,49,41,7
+Honeycomb Board,2,28,3,77,98,10
+Compressed Paper,1,2,9,57,40,3
+Thermoformed Plastic,2,2,3,89,38,10
+Rubber Packaging,2,26,8,44,87,5
+Corrugated Board,1,13,3,92,52,9
